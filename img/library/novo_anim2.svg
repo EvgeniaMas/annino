@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="78" height="79" viewBox="0 0 78 79">
+    <defs>
+        <path id="prefix__a" d="M0 0H85V78H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(-3.9 2)">
+        <mask id="prefix__b" fill="#fff">
+            <use xlink:href="#prefix__a"/>
+        </mask>
+        <rect width="57" height="57" x="14.405" y="8.799" fill="#8ECDFF" mask="url(#prefix__b)" rx="8" transform="rotate(75 42.905 37.299)"/>
+    </g>
+</svg>

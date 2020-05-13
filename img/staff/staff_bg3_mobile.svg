@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="440" viewBox="0 0 375 440">
+    <defs>
+        <linearGradient id="prefix__c" x1="68.158%" x2="14.392%" y1="43.381%" y2="57.026%">
+            <stop offset="0%" stop-color="#FDF6FF"/>
+            <stop offset="100%" stop-color="#F7F6FC"/>
+        </linearGradient>
+        <filter id="prefix__d" width="260%" height="260%" x="-80%" y="-80%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="8"/>
+        </filter>
+        <path id="prefix__a" d="M0 0H385V463H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(0 -23)">
+        <mask id="prefix__b" fill="#fff">
+            <use xlink:href="#prefix__a"/>
+        </mask>
+        <g mask="url(#prefix__b)">
+            <g transform="translate(-199 -153)">
+                <path fill="url(#prefix__c)" d="M869.655 162.058c-194.25 128.159-272.66-43.591-404.32 61.642-131.66 105.233-167.369 131.057-221.543 159.837-36.116 19.186-96.224 42.394-180.324 69.624-42.396 81.56-35.714 125.502 20.045 131.824 83.64 9.484 93.717-49.96 256.029-76.655 162.312-26.694 179.577-80.105 405.444-73 225.868 7.105 251.518-181.166 276.113-266.538 24.595-85.372 42.807-134.892-151.444-6.734z" transform="rotate(170 536 335)"/>
+                <circle cx="234" cy="565" r="15" fill="#FFC8ED" filter="url(#prefix__d)"/>
+            </g>
+        </g>
+    </g>
+</svg>

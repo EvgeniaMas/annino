@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94" height="22" viewBox="0 0 94 22">
+  <defs>
+    <rect id="облако-1-a" width="123" height="47"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(-17 -10)">
+    <mask id="облако-1-b" fill="#fff">
+      <use xlink:href="#облако-1-a"/>
+    </mask>
+    <path fill="#F1F1F1" fill-rule="nonzero" d="M17,32 C17,32 38.0793991,32 64,32 C89.9206009,32 111,32 111,32 C111,22.9259119 104.948498,12.2563798 90.223176,10.2620747 C73.6824034,8.06833914 68.3369099,20.3333153 59.1587983,21.5298984 C45.7446352,23.3247729 47.8626609,18.239295 34.4484979,18.0398645 C24.2618026,17.840434 17,24.6210712 17,32 Z" mask="url(#облако-1-b)"/>
+  </g>
+</svg>

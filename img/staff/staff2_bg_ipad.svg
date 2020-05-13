@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="690" viewBox="0 0 1024 690">
+    <defs>
+        <path id="prefix__a" d="M0 0H1024V724H0z"/>
+        <path id="prefix__d" d="M0 0H56V51H0z"/>
+        <linearGradient id="prefix__c" x1="4.762%" x2="89.777%" y1="45.861%" y2="53.108%">
+            <stop offset="0%" stop-color="#FFFBF2"/>
+            <stop offset="100%" stop-color="#FFF8E8"/>
+        </linearGradient>
+        <filter id="prefix__f" width="260%" height="260%" x="-80%" y="-80%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="8"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(0 -29)">
+        <mask id="prefix__b" fill="#fff">
+            <use xlink:href="#prefix__a"/>
+        </mask>
+        <g mask="url(#prefix__b)">
+            <g transform="translate(-128 -25)">
+                <path fill="url(#prefix__c)" d="M1149.328 141.502c148.306-59.291-298.892-45.428-491.44 67.096-192.55 112.524-244.772 140.137-324 170.91-52.818 20.517-140.724 45.333-263.718 74.449-62.002 87.211-52.23 134.198 29.316 140.958 122.32 10.141 137.057-53.422 374.434-81.966 237.376-28.544 371.165-100.915 592.948-78.058 221.782 22.856 352.796-83.863 361.989-208.246 9.193-124.383-427.835-25.851-279.529-85.143z" transform="rotate(171 729.5 351.5)"/>
+                <g transform="translate(954 327)">
+                    <mask id="prefix__e" fill="#fff">
+                        <use xlink:href="#prefix__d"/>
+                    </mask>
+                    <path fill="#FFDADB" d="M14.002 7.002L40.221 7c2.209 0 4 1.79 4 4l-.002 26.226c0 2.209-1.791 4-4 4L14 41.227c-2.21 0-4-1.79-4-3.999l.002-26.226c0-2.209 1.791-4 4-4z" mask="url(#prefix__e)" transform="rotate(75 27.11 24.114)"/>
+                </g>
+                <circle cx="180" cy="709" r="15" fill="#FFECD6" filter="url(#prefix__f)"/>
+            </g>
+        </g>
+    </g>
+</svg>
